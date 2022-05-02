@@ -4,13 +4,13 @@
     <img alt="banner" src="/img/Banner-avatar.png">
 </div>
 
-<h3 align="center">Eternal apprentice</h3>
-<h3 align="center">Passionate Developer</h3>
+<h3 align="center">Eternal apprentice - Passionate developer - Anonymous researcher - Pattern lover - Impostor</h3>
+
+<!-- <h3 align="center">Eternal apprentice</h3>
+<h3 align="center">Passionate developer</h3>
 <h3 align="center">Anonymous researcher</h3>
 <h3 align="center">Pattern lover</h3>
-<h3 align="center">Impostor</h3>
-
----
+<h3 align="center">Impostor</h3> -->
 
 <div align="center" style="margin-bottom: 10px;">
     <a href="https://twitter.com/intent/follow?screen_name=kennbroorg">
@@ -27,17 +27,13 @@
     </a>
 </div>
 
----
-
 <h2 align="center">Skill</h2>
 
 <div align="center">
     <img alt="skill" src="/img/Skill-trx.png">
 </div>
 
----
-
-<h2 align="center">Projects</h2>
+<h2 align="center">Important Projects</h2>
 
 <div align="center">
     <a href="https://vimeo.com/434501702"><img width="300" src="/img/iKySol.gif"></a>
