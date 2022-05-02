@@ -1,4 +1,7 @@
-### Hi there 👋
+![](https://github.com/KennBro/KennBro/blob/main/img/Skill-trx.png)
+
+
+
 
 <!--
 **KennBro/KennBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
