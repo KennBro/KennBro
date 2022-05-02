@@ -4,11 +4,11 @@
     <img alt="banner" src="/img/Banner-avatar.png">
 </div>
 
-<h4 align="center">Eternal apprentice</h4>
-<p align="center">Passionate Developer</p>
-<p align="center">Anonymous researcher</p>
-<p align="center">Pattern lover</p>
-<p align="center">Impostor</p>
+<h3 align="center">Eternal apprentice</h3>
+<h3 align="center">Passionate Developer</h3>
+<h3 align="center">Anonymous researcher</h3>
+<h3 align="center">Pattern lover</h3>
+<h3 align="center">Impostor</h3>
 
 ---
 
@@ -41,5 +41,5 @@
 
 <div align="center">
     <a href="https://vimeo.com/434501702"><img width="300" src="/img/iKySol.gif"></a>
-    <a href="https://gitlab.com/kennbroorg/shit-bucket/fecalface"><img width="300" src="/img/FecalFace-simetric-logo-trans.png"></a>
+    <a href="https://gitlab.com/kennbroorg/shit-bucket/fecalface"><img width="300" src="/img/FF.png"></a>
 </div>
