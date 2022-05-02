@@ -12,6 +12,8 @@
 <h3 align="center">Pattern lover</h3>
 <h3 align="center">Impostor</h3> -->
 
+---
+
 <div align="center" style="margin-bottom: 10px;">
     <a href="https://twitter.com/intent/follow?screen_name=kennbroorg">
         <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/kennbroorg.svg?label=follow%20&style=for-the-badge&logo=twitter&labelColor=abcdef&color=1da1f2">
@@ -27,6 +29,8 @@
     </a>
 </div>
 
+---
+
 <h2 align="center">Skill</h2>
 
 <div align="center">
@@ -36,6 +40,6 @@
 <h2 align="center">Important Projects</h2>
 
 <div align="center">
-    <a href="https://vimeo.com/434501702"><img width="300" src="/img/iKySol.gif"></a>
-    <a href="https://gitlab.com/kennbroorg/shit-bucket/fecalface"><img width="300" src="/img/FF.png"></a>
+    <a href="https://vimeo.com/434501702" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/iKySol.gif"></a>
+    <a href="https://gitlab.com/kennbroorg/shit-bucket/fecalface" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/FF.png"></a>
 </div>
