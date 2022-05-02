@@ -4,7 +4,7 @@
     <img alt="banner" src="/img/Banner-avatar.png">
 </div>
 
-<p align="center" style="font-size: 20px;">Eternal apprentice</p>
+<h4 align="center">Eternal apprentice</h4>
 <p align="center">Passionate Developer</p>
 <p align="center">Anonymous researcher</p>
 <p align="center">Pattern lover</p>
@@ -40,6 +40,6 @@
 <h2 align="center">Projects</h2>
 
 <div align="center">
-    <a href="https://vimeo.com/434501702"><img src="/img/iKySol.gif"></a>
-    <a href="https://gitlab.com/kennbroorg/shit-bucket/fecalface"><img src="/img/FecalFace-simetric-logo-trans.png"></a>
+    <a href="https://vimeo.com/434501702"><img width="300" src="/img/iKySol.gif"></a>
+    <a href="https://gitlab.com/kennbroorg/shit-bucket/fecalface"><img width="300" src="/img/FecalFace-simetric-logo-trans.png"></a>
 </div>
