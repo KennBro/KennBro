@@ -40,6 +40,7 @@
 <h2 align="center">Important Projects</h2>
 
 <div align="center">
-    <a href="https://vimeo.com/434501702" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/iKySol.gif"></a>
-    <a href="https://gitlab.com/kennbroorg/shit-bucket/fecalface" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/FF.png"></a>
+    <a href="https://github.com/kennbroorg/poorskeme" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/poorSKeme.png"></a>
+    <a href="https://github.com/kennbroorg/iKy" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/iKySol.gif"></a>
+    <a href="https://github.com/KennBro/Fecalface" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/FF.png"></a>
 </div>
