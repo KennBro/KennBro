@@ -14,9 +14,7 @@
 
 ---
 
-<div align="center" style="margin-bottom: 10px;">
 ![](https://komarev.com/ghpvc/?username=KennBro&color=grey&style=for-the-badge)
-</div>
 
 <div align="center" style="margin-bottom: 10px;">
     <a href="https://twitter.com/intent/follow?screen_name=kennbroorg">
