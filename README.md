@@ -15,6 +15,10 @@
 ---
 
 <div align="center" style="margin-bottom: 10px;">
+![](https://komarev.com/ghpvc/?username=KennBro&color=grey&style=for-the-badge)
+</div>
+
+<div align="center" style="margin-bottom: 10px;">
     <a href="https://twitter.com/intent/follow?screen_name=kennbroorg">
         <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/kennbroorg.svg?label=follow%20&style=for-the-badge&logo=twitter&labelColor=abcdef&color=1da1f2">
     </a>
@@ -43,4 +47,5 @@
     <a href="https://github.com/kennbroorg/poorskeme" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/poorSKeme.png"></a>
     <a href="https://github.com/kennbroorg/iKy" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/iKySol.gif"></a>
     <a href="https://github.com/KennBro/Fecalface" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/FF.png"></a>
+    <a href="https://github.com/kennbroorg/trackenn" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/trackenn.gif"></a>
 </div>
