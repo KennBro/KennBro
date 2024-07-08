@@ -42,8 +42,8 @@
 <h2 align="center">Important Projects</h2>
 
 <div align="center">
-    <a href="https://github.com/kennbroorg/poorskeme" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/poorSKeme.png"></a>
+    <a href="https://github.com/kennbroorg/poorskeme" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/poor-evo.gif"></a>
     <a href="https://github.com/kennbroorg/iKy" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/iKySol.gif"></a>
-    <a href="https://github.com/KennBro/Fecalface" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/FF.png"></a>
+    <a href="https://github.com/KennBro/Fecalface" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/ff.gif"></a>
     <a href="https://github.com/kennbroorg/trackenn" style="border: 10px solid #9E9EA1;"><img width="300" src="/img/trackenn.gif"></a>
 </div>
