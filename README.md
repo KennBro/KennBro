@@ -15,6 +15,8 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=KennBro&color=grey&style=for-the-badge)
+![X Follow](https://img.shields.io/twitter/follow/kennbroorg?style=for-the-badge&logo=X&logoColor=white&labelColor=black&color=black)
+
 
 <div align="center" style="margin-bottom: 10px;">
     <a href="https://twitter.com/intent/follow?screen_name=kennbroorg">
