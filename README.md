@@ -4,7 +4,7 @@
     <img alt="banner" src="/img/Banner-avatar.png">
 </div>
 
-<h3 align="center">Eternal apprentice - Passionate developer - Anonymous researcher - Pattern lover - Impostor</h3>
+<h3 align="center">Eternal apprentice - Anxiously curious - Passionate developer - Anonymous researcher - Data lover (your data) - Protector of my privacy - Impostor</h3>
 
 <!-- <h3 align="center">Eternal apprentice</h3>
 <h3 align="center">Passionate developer</h3>
